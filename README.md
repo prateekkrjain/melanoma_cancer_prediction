@@ -15,8 +15,8 @@
 ## Dataset Details
 
 > Train and Validation datasets have been provided
-> Train dataset contains 2,239 samples from 9 distinct classes
-> Test dataset contains 118 samples from 9 distinct classes
++ Train dataset contains 2,239 samples from 9 distinct classes
++ Test dataset contains 118 samples from 9 distinct classes
 
 ## Conclusions
 > Model fitness related
